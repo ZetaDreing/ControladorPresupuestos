@@ -296,11 +296,13 @@ main {
     color: var(--negro);
     font-weight: 900;
     margin-top: .2rem;
+    margin-left: 3.5rem;
 }
 @media (min-width: 768px) {
     .cantidad-gasto {
         font-size: 2.4rem;
         margin-top: auto;
+        margin-left: auto;
     }
 }
 
